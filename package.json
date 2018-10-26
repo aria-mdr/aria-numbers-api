@@ -1,0 +1,15 @@
+{
+  "name": "aria-numbers-api",
+  "version": "1.0.0",
+  "description": "got tired of numbers api using http so i made a solution for it",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aria Moradpour",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
